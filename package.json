@@ -1,0 +1,11 @@
+{
+  "name": "Mimi",
+  "version": "0.0.3",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Evrim",
+  "license": "ISC"
+}
